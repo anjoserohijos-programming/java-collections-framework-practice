@@ -1,11 +1,8 @@
 What does JCF Consists of?
 
-Java Collections Framework is a group of types and algorithms that are developed
-to store elements and perform manipulations on the group of the objects
+Java Collections Framework is a group of types and algorithms that are developed to store elements and perform manipulations on the group of the objects.
 
-1. Collection Interfaces - these are abstract data types that describes the type 
-that may group multiple elements in a unit. As a software engineer we are going to use 
-collections all the time to perform operations with 
+1. Collection Interfaces - these are abstract data types that describes the type that may group multiple elements in a unit. As a software engineer we are going to use collections all the time to perform operations with the group of objects. For example, product list in our Web Application. This might be a collection of products in the language of Java, and we could perform operations on  the group of the products, for example search search products or filter them to keep only prouducts that has priced more than ten dollars or split all the group of products on the equal chance to show products page by page and a lot of other things.
 
 2. Implementation of Collection Interfaces
 3. Map Interfaces
