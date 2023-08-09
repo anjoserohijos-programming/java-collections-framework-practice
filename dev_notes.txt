@@ -8,8 +8,8 @@ Java Collections Framework is a group of types and algorithms that are developed
 
 3. Map Interfaces - are different from collections in one important thing. Map is a container that contains paris of key and value. For example you must store the name of the product category: doors and collections of all doors associated with it. You might have goods cateogry and collection of booths associated with that key. And in case you need to get all doors, you just make a request to the map button on the key to it to retrieve all doors. Maps are also considered a part of the collections framework because even if they don't have the same interface as collections, they have operations that allow us to view and interact with them the same way as with collections.
 
+4. Implementation of Map Interfaces - different ways to implement the map interface and to understand when we will use each implementation of the map interface. 
 
-4. Implementation of Map Interfaces
 5. Deprecated Collections
 6. Synchronized Collections
 7. Algorithms
