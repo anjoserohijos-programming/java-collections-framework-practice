@@ -4,8 +4,9 @@ Java Collections Framework is a group of types and algorithms that are developed
 
 1. Collection Interfaces - these are abstract data types that describes the type that may group multiple elements in a unit. As a software engineer we are going to use collections all the time to perform operations with the group of objects. For example, product list in our Web Application. This might be a collection of products in the language of Java, and we could perform operations on  the group of the products, for example search search products or filter them to keep only prouducts that has priced more than ten dollars or split all the group of products on the equal chance to show products page by page and a lot of other things.
 
-2. Implementation of Collection Interfaces
-3. Map Interfaces
+2. Implementation of Collection Interfaces - even despite the fact that abstractions for collections looks the same, the implementation of this interface at different and fits for different goals. For example, some collections work the best for adding new elements since the end of the collection, and developers like that collections because of the constant time of retrieving element from them. Are the collections work better when you need to add elements in the middle or at the beginning of the collection? Other collectiosn work the best in the concurrent environment. All of these collections and the difference when to use each collection will be discussed in the later parts of the module.
+
+3. Map Interfaces - 
 4. Implementation of Map Interfaces
 5. Deprecated Collections
 6. Synchronized Collections
