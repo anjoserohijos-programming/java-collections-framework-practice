@@ -17,5 +17,3 @@ Java Collections Framework is a group of types and algorithms that are developed
 7. Algorithms - JCF includes algorithms that are the methods that perform useful computations, such as searching and sorting on objects that implement collection interfaces that algorithms are said to be polymorhic. That is the same method can be used on many different implementation of the appropriate collection. 
 
 8. Wrappers - JCF also contains a special wrapper that can turn your regular collection into non modifiable collection. It can also turn your regular collection into synchronized collection that you can use and will just write an environment. 
-
-Why need 
