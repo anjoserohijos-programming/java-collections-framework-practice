@@ -10,9 +10,12 @@ Java Collections Framework is a group of types and algorithms that are developed
 
 4. Implementation of Map Interfaces - different ways to implement the map interface and to understand when we will use each implementation of the map interface. 
 
-5. Deprecated Collections
-6. Synchronized Collections
-7. Algorithms
-8. Wrappers
+5. Deprecated Collections - deprecated collections are also part of Java collections framework, despite the face that it is recommended not to use specific collections sometimes on the Java project, you still going to work with them? Because even nowadays there are a lot of old projects written on java that require support and maintenance. 
+
+6. Synchronized Collections - There are also special set of collections that are developed to be used in the multithreaded environment. Imagine that you have collections of users and one administrator of the website removes the user from the collection and another administrator of the website is iterating over each user in the same collection to update the state of the total. 
+
+7. Algorithms - JCF includes algorithms that are the methods that perform useful computations, such as searching and sorting on objects that implement collection interfaces that algorithms are said to be polymorhic. That is the same method can be used on many different implementation of the appropriate collection. 
+
+8. Wrappers - JCF also contains a special wrapper that can turn your regular collection into non modifiable collection. It can also turn your regular collection into synchronized collection that you can use and will just write an environment. 
 
 Why need 
